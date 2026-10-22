@@ -101,7 +101,7 @@ Some of the most useful work happens when reality disagrees with the diagram:
 
 ## `06 / OPERATING PRINCIPLES`
 
-<details>
+<details open>
   <summary><strong>What I optimize for</strong></summary>
 
   - **Boring releases.** A deployment should be repeatable, observable, and reversible.
