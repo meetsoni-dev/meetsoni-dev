@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0a1321"/><stop offset="1" stop-color="#17263a"/></linearGradient><linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#67e8f9"/><stop offset="1" stop-color="#a3e635"/></linearGradient></defs>
+<rect width="1200" height="250" rx="18" fill="url(#bg)"/>
+<g stroke="#5e7691" stroke-opacity=".65" stroke-width="2" fill="none">
+<path d="M155 115H335M335 115H515M515 115H695M695 115H875M875 115H1055"/>
+<path d="M335 115V178H515M695 115V58H875"/>
+</g>
+<path d="M155 115H335H515H695H875H1055" stroke="url(#line)" stroke-width="3" fill="none"/>
+<g fill="#0e1d2d" stroke="url(#line)" stroke-width="2">
+<rect x="85" y="78" width="140" height="74" rx="12"/><rect x="265" y="78" width="140" height="74" rx="12"/><rect x="445" y="78" width="140" height="74" rx="12"/><rect x="625" y="78" width="140" height="74" rx="12"/><rect x="805" y="78" width="140" height="74" rx="12"/><rect x="985" y="78" width="140" height="74" rx="12"/>
+<rect x="445" y="160" width="140" height="40" rx="9"/><rect x="805" y="38" width="140" height="40" rx="9"/>
+</g>
+<g font-family="monospace" text-anchor="middle" fill="#e5f4ff">
+<text x="155" y="106" font-size="13">01 / COMMIT</text><text x="155" y="128" font-size="11" fill="#8ca5bd">source</text>
+<text x="335" y="106" font-size="13">02 / VERIFY</text><text x="335" y="128" font-size="11" fill="#8ca5bd">test + scan</text>
+<text x="515" y="106" font-size="13">03 / PACKAGE</text><text x="515" y="128" font-size="11" fill="#8ca5bd">immutable image</text>
+<text x="695" y="106" font-size="13">04 / PROMOTE</text><text x="695" y="128" font-size="11" fill="#8ca5bd">GitOps</text>
+<text x="875" y="106" font-size="13">05 / OBSERVE</text><text x="875" y="128" font-size="11" fill="#8ca5bd">signals + SLOs</text>
+<text x="1055" y="106" font-size="13">06 / IMPROVE</text><text x="1055" y="128" font-size="11" fill="#8ca5bd">feedback loop</text>
+<text x="515" y="185" font-size="11">POLICY + SECURITY</text><text x="875" y="63" font-size="11">TELEMETRY</text>
+</g>
+</svg>

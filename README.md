@@ -1,35 +1,125 @@
-<h1 align="center">Hello there 👋, I'm Meet Soni</h1>
-<h3 align="center">A Passionate DevOps Engineer from India</h3>
+<div align="center">
+  <img src="assets/hero.svg" alt="Meet Soni — I make infrastructure behave like a product." width="100%" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=meet-s0ni&label=Profile%20views&color=0e75b6&style=flat" alt="meet-s0ni" /> </p>
+  <p>
+    <a href="https://meet-soni.pages.dev/"><img src="https://img.shields.io/badge/PORTFOLIO-visit-0e7490?style=for-the-badge&labelColor=0b1422" alt="Portfolio" /></a>
+    <a href="https://linkedin.com/in/meets0ni"><img src="https://img.shields.io/badge/LINKEDIN-connect-2563eb?style=for-the-badge&labelColor=0b1422" alt="LinkedIn" /></a>
+    <a href="https://github.com/meetsoni-dev"><img src="https://img.shields.io/badge/GITHUB-explore-a3e635?style=for-the-badge&labelColor=0b1422" alt="GitHub" /></a>
+  </p>
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meet-s0ni" alt="meet-s0ni" /></a> </p>
+<img src="assets/divider.svg" alt="" width="100%" />
 
-- 🌱 I’m currently learning **CKA, GCP, AWS, Azure**
+## `01 / THE WORK`
 
-- 🤝 I’m looking for help with **Cloud Based Solutions**
+I'm a DevOps / Platform Engineer working where **software delivery meets production reality**.
 
-- 💬 Ask me about **kubernetes, Docker, Azure**
+I like the unglamorous, high-leverage work: removing friction from releases, making infrastructure repeatable, figuring out why a system is failing, and making the next incident less mysterious than the last.
 
-- 📫 How to reach me **meetsonipc@gmail.com**
+I don't collect tools for the sake of it. I use them to make systems easier to ship, understand, secure, and afford.
 
-- 📄 Know about my experiences [https://meet-s0ni.github.io/resume/](https://meet-s0ni.github.io/resume/)
+## `02 / SIGNAL, NOT NOISE`
 
-- [https://www.credly.com/users/meet-soni/skills](https://www.credly.com/users/meet-soni)
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <img src="https://img.shields.io/badge/01-CLOUD_COST-0e7490?style=flat-square" alt="Cloud cost" /><br/>
+      <strong>−70% monthly AWS spend</strong><br/>
+      <sub>One environment went from roughly $10k to $3k/month after workload and managed-service cost analysis.</sub>
+    </td>
+    <td width="33%" valign="top">
+      <img src="https://img.shields.io/badge/02-DELIVERY-65a30d?style=flat-square" alt="Delivery" /><br/>
+      <strong>10+ hours → 3–4 hours</strong><br/>
+      <sub>Reduced CI/CD setup effort per service through reusable workflows and shared deployment patterns.</sub>
+    </td>
+    <td width="33%" valign="top">
+      <img src="https://img.shields.io/badge/03-RECOVERY-0891b2?style=flat-square" alt="Recovery" /><br/>
+      <strong>Database restored. No data lost.</strong><br/>
+      <sub>Worked through a Kubernetes/PostgreSQL storage incident by protecting and recovering the surviving data.</sub>
+    </td>
+  </tr>
+</table>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/meets0ni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meets0ni" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/17133721" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17133721" height="30" width="40" /></a>
-<!-- <a href="https://instagram.com/meet_s__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="meet_s__" height="30" width="40" /></a> -->
-<a href="https://leetcode.com/Meet-S0ni/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="meetsonipc" height="30" width="40" /></a>
+<img src="assets/divider.svg" alt="" width="100%" />
+
+## `03 / HOW I THINK ABOUT DELIVERY`
+
+<div align="center">
+  <img src="assets/delivery-map.svg" alt="Delivery system: commit, verify, package, promote, observe, improve, with security policy and telemetry feedback." width="100%" />
+</div>
+
+A pipeline is not just a sequence of YAML steps. It's a system of controls and feedback:
+
+- **Commit → verify:** repeatable builds, tests, and security checks.
+- **Package → promote:** traceable artifacts, environment boundaries, and GitOps.
+- **Observe → improve:** useful telemetry, actionable alerts, and evidence-led incident response.
+
+## `04 / THE TOOLBOX`
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,kubernetes,docker,terraform,jenkins,githubactions,git,prometheus,grafana,python,bash,go&perline=7" alt="Icons for AWS, Azure, GCP, Kubernetes, Docker, Terraform, Jenkins, GitHub Actions, Git, Prometheus, Grafana, Python, Bash, and Go" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+| SYSTEM | THINGS I BUILD WITH |
+|:--|:--|
+| **Cloud & compute** | AWS · Azure · GCP · EKS · AKS · GKE |
+| **Infrastructure** | Terraform · Helm · Kustomize · Karpenter |
+| **Delivery & GitOps** | GitHub Actions · Jenkins · Azure DevOps · Argo CD · Argo Rollouts |
+| **Observability** | Prometheus · Grafana · Loki · ELK · PagerDuty |
+| **Security** | Trivy · SonarQube · Fortify · IAM/RBAC · secret management |
+| **Traffic & data** | Gateway API · Istio · NGINX · PostgreSQL · Redis · Kafka |
+| **Automation & AIOps** | Python · Bash · Go · n8n · AWS Bedrock |
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meet-s0ni&show_icons=true&locale=en&layout=compact" alt="meet-s0ni" /></p>
+<img src="assets/divider.svg" alt="" width="100%" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meet-s0ni&show_icons=true&locale=en" alt="meet-s0ni" /></p>
+## `05 / SELECTED WORK`
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meet-s0ni&" alt="meet-s0ni" /></p>
+### [Kubernetes CI pipeline ↗](https://github.com/Meet-S0ni/kubernetescode)
+**Build lane.** Jenkins pipeline for building and packaging a containerized Python application.
+
+`Jenkins` `Docker` `Git`
+
+### [Kubernetes GitOps manifests ↗](https://github.com/Meet-S0ni/kubernetesmanifest)
+**Deploy lane.** Kubernetes manifests managed through Argo CD, separating application delivery from the build pipeline.
+
+`Kubernetes` `Argo CD` `GitOps`
+
+### [Azure Kubernetes infrastructure ↗](https://github.com/PredictiveResearchPtyLtd/milana-infra-as-code)
+**Infrastructure lane.** Open-source Terraform work covering AKS, ACR, ingress, and Grafana monitoring.
+
+`Azure` `Terraform` `AKS`
+
+### More than happy-path engineering
+
+Some of the most useful work happens when reality disagrees with the diagram:
+
+- **A network path that looked open but wasn't:** traced private-to-public service connectivity to the actual translated source address.
+- **A noisy incident becomes a useful signal:** built an event-driven diagnostic workflow that gathers Kubernetes context and produces structured RCA output.
+- **A platform grows without every service becoming a snowflake:** standardized reusable delivery patterns across 25+ services and 15+ repositories.
+
+*These are sanitized summaries. Client names, private architecture details, and sensitive incident specifics are intentionally omitted.*
+
+## `06 / OPERATING PRINCIPLES`
+
+<details>
+  <summary><strong>What I optimize for</strong></summary>
+
+  - **Boring releases.** A deployment should be repeatable, observable, and reversible.
+  - **Evidence before intervention.** Metrics, logs, events, and dependency paths before a blind restart.
+  - **Guardrails over heroics.** Good defaults, least privilege, automated checks, and clear ownership.
+  - **Cost with context.** Optimize the workload and its actual usage—not just the invoice.
+  - **Learning that compounds.** Turn incidents into runbooks, automation, and better system design.
+</details>
+
+## `07 / FIND ME ELSEWHERE`
+
+<p align="center">
+  <a href="https://meet-soni.pages.dev/"><img src="https://img.shields.io/badge/↗_PORTFOLIO-0e7490?style=for-the-badge" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/meets0ni"><img src="https://img.shields.io/badge/↗_LINKEDIN-2563eb?style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="https://www.credly.com/users/meet-soni"><img src="https://img.shields.io/badge/↗_CREDENTIALS-7c3aed?style=for-the-badge" alt="Credly" /></a>
+  <a href="https://stackoverflow.com/users/17133721"><img src="https://img.shields.io/badge/↗_STACK_OVERFLOW-f97316?style=for-the-badge" alt="Stack Overflow" /></a>
+</p>
+
+<div align="center">
+  <sub>Infrastructure is a product. Production is the user.</sub>
+</div>
