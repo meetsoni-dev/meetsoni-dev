@@ -2,9 +2,9 @@
   <img src="assets/hero.svg" alt="Meet Soni — I make infrastructure behave like a product." width="100%" />
 
   <p>
-    <a href="https://meet-soni.pages.dev/"><img src="https://img.shields.io/badge/PORTFOLIO-visit-0e7490?style=for-the-badge&labelColor=0b1422" alt="Portfolio" /></a>
-    <a href="https://linkedin.com/in/meets0ni"><img src="https://img.shields.io/badge/LINKEDIN-connect-2563eb?style=for-the-badge&labelColor=0b1422" alt="LinkedIn" /></a>
-    <a href="https://github.com/meetsoni-dev"><img src="https://img.shields.io/badge/GITHUB-explore-a3e635?style=for-the-badge&labelColor=0b1422" alt="GitHub" /></a>
+    <a href="https://meet-soni.pages.dev/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/PORTFOLIO-visit-0e7490?style=for-the-badge&labelColor=0b1422" alt="Portfolio" /></a>
+    <a href="https://linkedin.com/in/meets0ni" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LINKEDIN-connect-2563eb?style=for-the-badge&labelColor=0b1422" alt="LinkedIn" /></a>
+    <a href="https://github.com/meetsoni-dev?tab=repositories" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GITHUB-explore-a3e635?style=for-the-badge&labelColor=0b1422" alt="GitHub" /></a>
   </p>
 </div>
 
@@ -74,17 +74,17 @@ A pipeline is not just a sequence of YAML steps. It's a system of controls and f
 
 ## `05 / SELECTED WORK`
 
-### [Kubernetes CI pipeline ↗](https://github.com/Meet-S0ni/kubernetescode)
+### <a href="https://github.com/Meet-S0ni/kubernetescode" target="_blank" rel="noopener noreferrer">Kubernetes CI pipeline ↗</a>
 **Build lane.** Jenkins pipeline for building and packaging a containerized Python application.
 
 `Jenkins` `Docker` `Git`
 
-### [Kubernetes GitOps manifests ↗](https://github.com/Meet-S0ni/kubernetesmanifest)
+### <a href="https://github.com/Meet-S0ni/kubernetesmanifest" target="_blank" rel="noopener noreferrer">Kubernetes GitOps manifests ↗</a>
 **Deploy lane.** Kubernetes manifests managed through Argo CD, separating application delivery from the build pipeline.
 
 `Kubernetes` `Argo CD` `GitOps`
 
-### [Azure Kubernetes infrastructure ↗](https://github.com/PredictiveResearchPtyLtd/milana-infra-as-code)
+### <a href="https://github.com/PredictiveResearchPtyLtd/milana-infra-as-code" target="_blank" rel="noopener noreferrer">Azure Kubernetes infrastructure ↗</a>
 **Infrastructure lane.** Open-source Terraform work covering AKS, ACR, ingress, and Grafana monitoring.
 
 `Azure` `Terraform` `AKS`
@@ -114,10 +114,10 @@ Some of the most useful work happens when reality disagrees with the diagram:
 ## `07 / FIND ME ELSEWHERE`
 
 <p align="center">
-  <a href="https://meet-soni.pages.dev/"><img src="https://img.shields.io/badge/↗_PORTFOLIO-0e7490?style=for-the-badge" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/meets0ni"><img src="https://img.shields.io/badge/↗_LINKEDIN-2563eb?style=for-the-badge" alt="LinkedIn" /></a>
-  <a href="https://www.credly.com/users/meet-soni"><img src="https://img.shields.io/badge/↗_CREDENTIALS-7c3aed?style=for-the-badge" alt="Credly" /></a>
-  <a href="https://stackoverflow.com/users/17133721"><img src="https://img.shields.io/badge/↗_STACK_OVERFLOW-f97316?style=for-the-badge" alt="Stack Overflow" /></a>
+  <a href="https://meet-soni.pages.dev/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/↗_PORTFOLIO-0e7490?style=for-the-badge" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/meets0ni" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/↗_LINKEDIN-2563eb?style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="https://www.credly.com/users/meet-soni" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/↗_CREDENTIALS-7c3aed?style=for-the-badge" alt="Credly" /></a>
+  <a href="https://stackoverflow.com/users/17133721" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/↗_STACK_OVERFLOW-f97316?style=for-the-badge" alt="Stack Overflow" /></a>
 </p>
 
 <div align="center">
